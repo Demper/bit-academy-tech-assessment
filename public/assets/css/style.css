@@ -3,10 +3,7 @@
     border: 2px solid saddlebrown;
     width: 90vw;
     height: 90vw;
-
     max-height:300px;
-
-
     margin: auto;
     user-select: none;
 }
@@ -14,7 +11,6 @@
 .cell {
     width: 9vw;
     height: 9vw;
-
     display: table-cell; vertical-align: middle;
     position: relative;
     background-color: saddlebrown;
@@ -25,6 +21,7 @@
 .state-0 {
     background-color: darkgoldenrod;
 }
+
 .player {
     border-radius: 50%;
     width: 6vw;
@@ -35,7 +32,6 @@
 
 .player.a{
     background-color:wheat;
-
     cursor: grab;
 }
 
