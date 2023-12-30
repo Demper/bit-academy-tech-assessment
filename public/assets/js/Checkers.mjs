@@ -127,7 +127,7 @@ export class Checkers
     }
 
     /**
-     * Tries to move a disk form one location to another based
+     * Tries to move a disk form one location to another
      *
      * @param fromRow
      * @param fromCol
@@ -176,7 +176,7 @@ export class Checkers
      *
      * Returns -1 if there is nothing to strike
      * Returns 0 if the current player needs to strike
-     * Returns 1 if the current player performed succes full strike!
+     * Returns 1 if the current player performed a succes-full strike!
      *
      * @param fromRow
      * @param fromCol
